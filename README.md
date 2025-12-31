@@ -1,297 +1,277 @@
+
+
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=speech&height=200&color=gradient&text=WE'LL%20COME%20🥳&animation=blinking&fontAlign=36&fontAlignY=36&descAlign=62&reversal=false&textBg=false" width="100%">
+</div>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=70&pause=500&color=00FF00&center=true&width=1150&height=200&lines=PLEASE-FORK-STAR-BOT-REPO" alt="Typing SVG" /></a>
+  </div>
+<a><img src='https://i.ibb.co/VWt5CXzX/malvin-xd.jpg'/></a>
+
+<!-- 📊 STATS & HERO ANIMATION (Updated Colors) -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:6a0dad,100:ab47bc&text=KHAN%20MD&fontColor=ffffff&fontSize=85&fontAlignY=40&animation=twinkling&desc=Powered%20By%20Jawad%20TechX&descSize=20&descAlignY=65&stroke=ffffff&strokeWidth=1.2" width="100%"/>
+  <!-- GitHub Stats Badges with new color palette -->
+  <p>
+    <img src="https://img.shields.io/github/forks/XdKing2/MALVIN-XD?style=flat&color=1E88E5&logo=github&logoColor=white&label=Forks" alt="GitHub Forks" />
+    <img src="https://img.shields.io/github/followers/XdKing2?style=flat&color=43A047&logo=github&logoColor=white&label=Followers" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/last-commit/XdKing2/MALVIN-XD?style=flat&color=8E24AA&logo=git&logoColor=white&label=Last%20Commit" alt="Last Commit" />
+    <img src="https://img.shields.io/github/repo-size/XdKing2/MALVIN-XD?style=flat&color=0097A7&logo=database&logoColor=white&label=Repo%20Size" alt="Repo Size" />
+    <img src="https://img.shields.io/github/package-json/v/XdKing2/MALVIN-XD?style=flat&color=F57C00&logo=npm&logoColor=white&label=Version" alt="Package Version" />
+  </p>
 
-<div style="
-  margin-top: -60px;
-  text-align: center;
-  font-size: 32px;
-  font-weight: 1000;  /* Nuclear bold - no skimping */
-  letter-spacing: 3px;  /* Extra spacing for bold punch */
-  background: linear-gradient(90deg, #6a0dad, #ab47bc, #d896ff);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
-  text-shadow:
-    0 0 12px #6a0dad,
-    0 0 24px #ab47bc,
-    0 0 36px #d896ff,
-    0 0 48px #ab47bc;
-  padding: 12px 0;
-"> Built on Baileys • Designed for Speed • Enhanced for Stability • Powered by Jawad TechX
+  <!-- Hero GIF with updated border & hover effect -->
+  <p>
+    <img src="https://i.imgur.com/LyHic3i.gif" alt="Techwave Animation" style="max-width:100%; border-radius:16px; transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.08)'" onmouseout="this.style.transform='scale(1)'" />
+  </p>
+
 </div>
-</p>
+<div align="center">
 
 <h1 align="center">
-  <img src="https://img.shields.io/badge/-✨_KHAN--MD_INSIGHTS_✨-purple?style=for-the-badge&logo=sparkles&logoColor=white&labelColor=0d1117&color=9d4edd&label=&link=https://github.com/KHAN-MD&link=https://github.com/KHAN-MD" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=6000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=⚡+MALVIN+XD+BETTER+OPTION;🔥+THE+MOST+POWERFUL+WHATSAPP+BOT;💻+DEVELOPER+BY+MR+XDKING2;🚀+MALVIN-XD+SOLUTIONS;🌈+FAST+⚡+SECURE+🔒+RELIABLE+✅" alt="Typing Animation">
 </h1>
+
+
+***BOT FEATURE ⤵️***
+
+| Menu ⁠➜ | Status Save + Send | Group | ChatBot | Downloading | Antidelete | Ai | Viewonce | Fun | Status Reply | Status Reacts | HeartReacts | Autoreacts | Call Rejecter 
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Work ➜ |✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|
+
+
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=00FF00&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=MALVIN-XD;MR+MALVIN+KING;THANKS+FOR+USING" alt="Typing SVG" /></a>
 </p>
-</p>
-    <img src="https://komarev.com/ghpvc/?username=JawadYT36&label=Views&color=9D00FF&style=flat" alt="Profile Views" />
-    <img src="https://img.shields.io/github/stars/JawadYT36/KHAN-MD?color=9D00FF&label=Stars&style=flat" alt="GitHub Stars" />
-    <img src="https://img.shields.io/github/forks/JawadYT36/KHAN-MD?style=flat&color=1E88E5&logo=github&logoColor=white&label=Forks" alt="GitHub Forks" />
-    <img src="https://img.shields.io/github/followers/JawadYT36?style=flat&color=43A047&logo=github&logoColor=white&label=Followers" alt="GitHub Followers" />
-    <img src="https://img.shields.io/github/last-commit/JawadYT36/KHAN-MD?style=flat&color=8E24AA&logo=git&logoColor=white&label=Last%20Commit" alt="Last Commit" />
-    <img src="https://img.shields.io/github/repo-size/JawadYT36/KHAN-MD?style=flat&color=0097A7&logo=database&logoColor=white&label=Repo%20Size" alt="Repo Size" />
-    <img src="https://img.shields.io/github/package-json/v/JawadYT36/KHAN-MD?style=flat&color=F57C00&logo=npm&logoColor=white&label=Version" alt="Package Version" />
-  </p>
-  
+
+### 🚀 Fork the Repository
+
+<p align='center'>
+
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace-ExtraBold&color=blue&lines=𝗙𝗢𝗥𝗞+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+⭐+𝗥𝗘𝗣𝗢)](https://git.io/typing-svg)
+
+<a href="https://github.com/SohailTermuxXD/SOLO-XD/fork"><img src="https://img.shields.io/github/forks/SohailTermuxXD/SOLO-XD?style=for-the-badge&logo=github&color=4c1&label=Fork%20MALVIN-XD" alt="Fork SOLO-XD" /></a>
+
 </div>
+<!-- Glowing Header -->
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+</p>
 
----
 
-> **Deploy New Version `9.0.5`**  
+> ⚠️ **IMPORTANT**: You must fork the [MALVIN-XD repository](https://github.com/SohailTermuxXD/SOLO-XD/fork) first to access session web!
 
----
+
+
+Authenticate using the *web button* below to generate your `Session ID`.
+
+### 🌐 Session Web ⤵️
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/JawadTechXD/JawadTechXD/refs/heads/main/khanmd.jpg" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
-</div>
 
-***
+> fast Authentication
 
-<div align="center"> 
-  <img src="https://img.shields.io/badge/WhatsApp-MultiDevice-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Multi-Device"/>    
-  <img src="https://img.shields.io/badge/Powered%20By-Node.js-339933?style=for-the-badge&logo=nodedotjs" alt="Node.js"/>    
-  <img src="https://img.shields.io/badge/Baileys-Latest-blueviolet?style=for-the-badge" alt="Baileys"/>  
-</div>
+[![Get Pairing Code](https://img.shields.io/badge/Get%20Pairing%20Code-orange?style=for-the-badge&logo=opencv&logoColor=black)](https://starcore-pair.vercel.app/)
 
----
-
-<h2 align="center">🛰️ Deployment Steps</h2>
-</p>
-
-<div style="background: #000000; border: 1px solid #00ffff; border-radius: 15px; padding: 20px; box-shadow: 0 0 15px #00ffff; margin-bottom: 30px;">
-
-  <div style="background: #111111; padding: 15px; border-radius: 10px; border-left: 4px solid #ff00ff;">
-    <p style="color: #00ffff; font-size: 16px;">🚀 First, star & fork the repo using the button below:</p>
-    <a href='https://github.com/JawadYT36/KHAN-MD/fork' target="_blank">
-      <img src='https://img.shields.io/badge/FORK_REPOSITORY-008000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000'/>
-    </a>
-  </div>
 
 </div>
-
-<div style="background: #000000; border: 1px solid #ff00ff; border-radius: 15px; padding: 20px; box-shadow: 0 0 15px #ff00ff; margin-bottom: 30px;">
-
-  <div style="background: #111111; padding: 15px; border-radius: 10px; border-left: 4px solid #00ffff;">
-    <p style="color: #ff00ff; font-size: 16px;">📦 Next deploy using your preferred method ( Heroku, Railway, etc.)</p>
-    <ul style="color: #ffffff; line-height: 1.6;">
-      <li>📁 Clone or fork the repository</li>
-      <li>⚙️ Add your <code>settings</code> variables</li>
-      <li>🚀 Deploy using platform buttons or manual setup</li>
-    </ul>
-  </div>
-
-</div>
-  
----
-
-## 🚀 Pairing Dashboard
-
-> Securely link your device using the official KHAN-MD pairing portals below: if connection issues may require vpn activation to fix this issue.
-
- <div align="center">
-
-### 🔥 SHORT SESSION ID
+<!-- Glowing Header -->
 <p align="center">
-  <a href="https://khanmd-pair.onrender.com/">
-    <img src="https://img.shields.io/badge/🚀_PAIR_GENRATER_1-FF6B6B?style=for-the-badge&logo=codechef&logoColor=white&labelColor=1e1b4b" alt="Short Session"/>
-  </a>
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 </p>
 
-### 🌊 LONG SESSION ID
-<p align="center">
-  <a href="https://khanxmd-pair.onrender.com/">
-    <img src="https://img.shields.io/badge/💫_PAIR_GENRATER_2-4F46E5?style=for-the-badge&logo=codeberg&logoColor=white&labelColor=1e1b4b" alt="Long Session"/>
-  </a>
-</p>
 
-</div>
+<details>
+<summary>_📡 DEPLOYMENT_</summary>
+ 
 
----
-
-## 📡 DEPLOYMENT SITES
-
-<p align="center">Deploy your <strong>KHAN-MD Bot</strong> with one click on your favorite hosting platforms.</p>
 
 <div align="center">
   <table>
     <tr>
-      <!-- Heroku (with rocket logo on left) -->
-      <td><a href="https://dashboard.heroku.com/new?template=https://github.com/JawadTechXD/KHAN-XD" target="_blank">
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=rocket&logoColor=white"/>
-</a></td>
-      <!-- Replit -->
-      <td><a href="https://replit.com/github/JawadTechXD/KHAN-XD" target="_blank"><img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white&labelColor=000000"/></a></td>
+      <td><a href="https://dashboard.heroku.com/new-app?template=https://github.com/SohailTermuxXD/SOLO-XD" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=0000FF"/></a></td>
+      <td><a href="https://host.talkdrove.com/dashboard/deploy-bot/75" target="_blank"><img src="https://img.shields.io/badge/TalkDrove-A52A2A?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/></a></td>
     </tr>
     <tr>
-      <!-- Koyeb -->
-      <td><a href="https://app.koyeb.com/deploy?type=git&repository=github.com/JawadTechXD/KHAN-XD" target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a></td>
-      <!-- Railway -->
-      <td><a href="https://railway.app/new/template?template=https://github.com/JawadTechXD/KHAN-XD" target="_blank"><img src="https://img.shields.io/badge/Railway-FF8700?style=for-the-badge&logo=railway&logoColor=white&labelColor=000000"/></a></td>
+      <td><a href="https://app.koyeb.com/services/deploy?type=git&repository=XdKing2/SOLO-XD" target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a></td>
+      <td><a href="https://railway.app/new" target="_blank"><img src="https://img.shields.io/badge/Railway-FF8700?style=for-the-badge&logo=railway&logoColor=white&labelColor=000000"/></a></td>
     </tr>
     <tr>
-      <!-- Render (blue color theme) -->
-      <td><a href="https://render.com/deploy?repo=https://github.com/JawadTechXD/KHAN-XD" target="_blank"><img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white&labelColor=000000&color=007FFF"/></a></td>
-      <!-- Netlify -->
-      <td><a href="https://app.netlify.com/start/deploy?repository=https://github.com/JawadTechXD/KHAN-XD" target="_blank"><img src="https://img.shields.io/badge/Netlify-CC00FF?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=000000"/></a></td>
+      <td><a href="https://dashboard.render.com/web/new" target="_blank"><img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white&labelColor=000000&color=00ffaa"/></a></td>
+      <td><a href="http://mxd-1768768d6768.herokuapp.com" target="_blank"><img src="https://img.shields.io/badge/MINI DEPLOY-CC00FF?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=000000"/></a></td>
     </tr>
   </table>
 </div>
 
-## 🚀 Deploy Free on VPS
-
-> Star this repository to support the project. Fork the repository to your own GitHub account Copy your GitHub > username and paste it on the VPS site. Get your Session ID from the Pair site and add it to the VPS setup. Click on Deploy and wait about 5 minutes for the bot to start automatically.
-
-> ⚠️ Note: After deployment, use the .restart command to improve the bot's performance.
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://jawadtech-vps.onrender.com" target="_blank">
-        <img alt="VPS Deploy" src="https://img.shields.io/badge/VPS_DEPLOY-Free_Unlimited-8A2BE2?style=for-the-badge&logo=serverless&logoColor=white&labelColor=0F0529"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-<td align="center">
-      <a href="https://github.com/JawadTechXD/KHAN-XD" target="_blank">
-        <img alt="GitHub Codes" src="https://img.shields.io/badge/GITHUB_WORKFLOW-Codes-9B30FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0F0529"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/JawadTechXD/KHAN-XD/archive/refs/heads/main.zip" target="_blank">
-        <img alt="Download ZIP" src="https://img.shields.io/badge/DOWNLOAD_ZIP-For_Panel-AB82FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0F0529"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
-<hr>
-<p align="center"><i>✨ Keep your bot updated regularly to enjoy the latest features and patches.</i></p>
-
----
-
-## KHAN-MD FEATURES
-
-<div align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?color=purple&label=Features&style=for-the-badge&url=https://api.example.com/khanmd&query=$.features_count&suffix=%20Active" alt="Features"/>
-</p>
-</div>
-
-<div align="center">
-
-|  ⚒️ **Feature**                     | **Status** 🔰  |
-|-----------------------------------|--------------|
-| <b>🤖 Ultimate Work </b>    | Active ✅   |
-| <b>🔁 Anti-Delete</b>              | Active ✅   |
-| <b>🎵 24/7 Runtime</b>               | Active ✅   |
-| <b>📥 Downloader</b>         | Active ✅   |
-| <b>🧠 AI Chat</b>                  | Active ✅   |
-| <b>👮 Group Setting</b>         | Active ✅   |
-| <b>📛 Auto Sticker</b>             | Active ✅   |
-| <b>🎮 Games</b>                    | Active ✅   |
-| <b>🌐 Web Pairing</b>              | Active ✅   |
-| <b>🎨 Sticker Maker</b>            | Active ✅   |
+</details>
 
 </div>
-
-<h2 align="center" style="color:#25D366; font-family:monospace; font-size:26px;">
-🪀 OFFICIAL SUPPORT CHANNEL
-</h2>
-
-<div align="center" style="margin-top: 15px; margin-bottom: 15px; background:#0e0e0e; padding: 20px; border-radius: 12px; border: 2px solid #25D366; box-shadow: 0 0 15px #25D366; width: 95%;">
-
-<p style="color:#e0e0e0; font-size:14px; font-family:sans-serif;">
-📢 Get updates, fixes, and sneak peeks directly from the official channel.
-</p>
-
-<a href="https://whatsapp.com/channel/0029VatOy2EAzNc2WcShQw1j" target="_blank">
-  <img src="https://img.shields.io/badge/JOIN_CHANNEL-NOW-8A2BE2?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=111111" alt="Join WhatsApp Channel"/>
-</a>
-
-</div>
-
----
-
-<h2 align="center" style="color:#9D00FF; font-family:monospace; font-size:26px;">
-🧾 PROJECT STATS KHAN-MD
-</h2>
-
-<div align="center" style="margin-top: 12px; margin-bottom: 20px; background:#0b0b0b; padding: 25px; border-radius: 12px; border: 2px solid #9D00FF; box-shadow: 0 0 20px #9D00FF; width: 95%;">
-
-<a href="https://github.com/JawadYT36" target="_blank">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=JawadYT36&show_icons=true&theme=tokyonight&border_color=9D00FF&title_color=00ffff&icon_color=00ffff&text_color=ffffff" width="420" alt="GitHub Stats"/>
-</a>
-
-</div>
-
----
-
-## Credits ⚒️
-
-<p><strong>Creator:</strong><br>
-JawadTechXD (Official Creator)</p>
-
-<p><strong>Co-Developer:</strong><br>
-JawadYT36 ( Helper )</p>
-
----
-
-<h2 align="center" style="color:#ff00ff; font-family:monospace; font-size:26px;">
-🧠 DEVELOPER NOTICE
-</h2>
-
-<div align="center" style="background:#0d0d0d; border:2px dashed #ff00ff; border-radius:12px; padding:20px; width:90%; box-shadow:0 0 15px #ff00ff;">
-
-<p style="color:#ffffff; font-size:15px; font-family:sans-serif;">
-🚫 This project is <strong>NOT FOR SALE</strong> and is provided for educational and personal use only.<br><br>
-📛 <strong>Do not use without giving proper credit</strong> to the original author.<br><br>
-🛑 Unauthorized selling, re-uploading, or branding as your own is strictly prohibited.
-</p>
-
-</div>
-
----
-
-## 📜 DISCLAIMER
-
-<div align="center" style="background-color:#0f0f0f; border:2px solid #00ffff; border-radius:10px; padding:20px; box-shadow:0 0 10px #00ffff;">
-
-<h3 style="color:#00ffff; font-family:monospace;">📌 Read Carefully</h3>
-
-<p style="color:#ffffff; font-size:14px;">
-This bot is <strong>not affiliated with WhatsApp Inc.</strong><br>
-Use at your own risk. We are <strong>not responsible</strong> for any misuse, abuse, or ban that results from improper use.<br>
-Inspired by the original work of <strong>Balleys</strong>, and enhanced by the community.
-</p>
-
-</div>
-
----
-
-## 📝 LICENSE
-
-<div align="center" style="background-color:#101010; border:2px solid #888888; border-radius:10px; padding:15px; box-shadow:0 0 5px #666666;">
-
-<p style="color:#ffffff; font-size:14px;">
-This project is licensed under the <strong>Apache License 2.0</strong><br>
-You are free to use, modify, and distribute it under the terms of this license.
-</p>
-
-<a href="https://www.apache.org/licenses/LICENSE-2.0" target="_blank">
-  <img src="https://img.shields.io/badge/License-Apache_2.0-ff69b4?style=for-the-badge&logo=apache" />
-</a>
-
-</div>
-
----
-
-<h3 align="center">🙏 Thanks for using!</h3>
+<!-- Glowing Header -->
 <p align="center">
-  If you like this project, consider giving it a ⭐ on GitHub.<br>
-  Made with ❤️ by <a href="https://github.com/JawadYT36">JawadTechX</a>
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 </p>
+
+
+<details>
+<summary>📡 PANEL DEPLOYMENT OPTIONS</summary>
+ 
+ **• 𝗛𝗢𝗦𝗧 𝗢𝗡 𝗗𝗜𝗦𝗖𝗢𝗥𝗗 /PANEL**
+
+> Get the latest MALVIN-XD bot zip file for panel-based deployment:
+
+<div align="left">
+  <a href="https://github.com/SohailTermuxXD/SOLO-XD/archive/refs/heads/main.zip" target="_blank">
+    <img alt="Download Panel ZIP" src="https://img.shields.io/badge/View-panel%20Codes-FF0000?style=for-the-badge&logo=bot&logoColor=white"/>
+  </a>
+</div>
+
+<p align="center">
+  <img src="https://i.imgur.com/LyHic3i.gif" width="100%" />
+</p>
+
+> ✅ Deploy to any panel service of your choice.
+
+<p align="center">
+  <img src="https://i.imgur.com/LyHic3i.gif" alt="divider"/>
+</p>
+
+### 🛠️ VPS / Hosting Panels
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://bot-hosting.net/?aff=1097457675723341836" target="_blank">
+          <img src="https://img.shields.io/badge/BotHosting-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a1a"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://dashboard.katabump.com/auth/login#203630" target="_blank">
+          <img src="https://img.shields.io/badge/Katabump-FF5722?style=for-the-badge&logo=codeberg&logoColor=white&labelColor=1a1a1a"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <a href="https://dash.hmvhostings.com/register?ref=GKTSTyFY" target="_blank">
+          <img src="https://img.shields.io/badge/HMVHosting-00ACC1?style=for-the-badge&logo=cloudflare&logoColor=white&labelColor=1a1a1a"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+> 🔧 _Fixed panel issues Enjoy...deploy to any free tier servers etc_
+
+</details>
+</div>
+<!-- Glowing Header -->
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+</p>
+
+<details>
+<summary>⚠️ DISCLAIMER</summary>
+
+
+- ❗ MALVIN-XD is **not affiliated with WhatsApp Inc.**
+- 🚫 Misuse may lead to account bans. Use responsibly.
+- 🛑 **Cloning, redistributing, or modifying** is strictly prohibited.
+
+<p align="center">
+  <img src="https://i.imgur.com/LyHic3i.gif" alt="divider"/>
+</p>
+</details>
+</div>
+<!-- Glowing Header -->
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+</p>
+
+
+<details>
+<summary>💡 CREDITS & CONTRIBUTORS</summary>
+ 
+
+> Built with ❤️ by **SOHAIL TECH**
+
+- 👤 [SOHAIL TECH](https://github.com/SohailTermuxXD) — Creator & Maintainer  
+  - Core features, plugin manager, deployment tools, performance optimization
+
+</div>
+<!-- Glowing Header -->
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+</p>
+
+</details>
+
+## 🗃️ PROJECT ARCHITECTS
+
+<p align="center">
+  <a href="https://github.com/SohailTermuxXD">
+    <img src="https://github-readme-stats.vercel.app/api?username=XdKing2&show_icons=true&theme=radical" />
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://github.com/SohailTermuxXD/SOLO-XD/blob/main/assets/futuretech.gif?raw=true" width="100%"/>
+</div>
+
+</div>
+<!-- Glowing Header -->
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+</p>
+
+
+<details>
+<summary>🌐 JOIN OUR SUPPORT CHANNELS</summary>
+ 
+
+> 🔔 Stay connected for updates, feature drops, and tutorials!
+
+- ▶️ **YouTube: MalvinTech**  
+  [![Subscribe YouTube](https://img.shields.io/badge/Subscribe-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@malvintech2)
+
+<p align="center">
+  <img src="https://i.imgur.com/LyHic3i.gif" alt="footer divider"/>
+</p>
+
+
+</details>
+</div>
+<!-- Glowing Header -->
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+</p>
+
+## 🤖 _MALVIN-XD STATUS_
+
+```diff
++ Project Status: Active
+! Version: V.2.0.0 Neon Edition
+# License: Apache
+```
+
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
+<!-- New Animated Contributors -->
+<div style="margin-top:20px">
+
+[![Contributors](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=58A6FF&background=00000000&center=true&vCenter=true&width=500&lines=THANKS+TO+ALL+CONTRIBUTORS+%F0%9F%99%8F;SPECIAL+THANKS+TO+OUR+STAR+SUPPORTERS+%E2%AD%90)](https://github.com/XdKing2/SohailTermuxXD -XD/graphs/contributors)
+
+</div>
+
+</div>
+
+<p align="center"> <img src="https://i.imgur.com/LyHic3i.gif" /> </p> <h2 align="center">💫 Thanks to our loyal followers</h2> <p align="center"> <a href="https://github.com/XdKing2/MALVIN-XD/stargazers"> <img src="http://reporoster.com/stars/dark/XdKing2/MALVIN-XD" alt="Stargazers repo roster for @XdKing2/MALVIN-XD"> </a> </p> <p align="center"> <a href="https://github.com/XdKing2/MALVIN-XD/network/members"> <img src="http://reporoster.com/forks/dark/XdKing2/MALVIN-XD" alt="Forkers repo roster for @XdKing2/MALVIN-XD"> </a> </p> 
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
+## Support Project
+> any amount will help keep the project upto date and more advanced
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-00457C?logo=paypal)](https://www.paypal.com/donate?hosted_button_id=3UEDDCYD4AR9U)
